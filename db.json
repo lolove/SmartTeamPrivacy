@@ -1,6 +1,7 @@
 
 {
   "posts": {
+    "versionCode":7,
     "androidVersionCode":7,
     "iosVersionCode":7,
     "versionName":"0.0.7",
